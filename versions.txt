@@ -1,0 +1,6 @@
+11/31/2020
+V 0.00 Created this website with the help of github and khanacademy (much luv <3)
+V 0.01 Updated to include link functionality as well as the ability to jump to certain sections and images
+V 0.02 Updated to improve linking to other pages on the website
+12/1/2020
+V 0.03 Deprecated the old index file and added a .css style standard
