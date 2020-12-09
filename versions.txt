@@ -4,7 +4,9 @@ V 0.01 Updated to include link functionality as well as the ability to jump to c
 V 0.02 Updated to improve linking to other pages on the website
 12/1/2020
 V 0.03 Deprecated the old index file and added a .css style standard
-V 0.04
+12/9/2020
+V 0.04 Updated to make pages for new bio, resume and blog fixed spacing for
+links
 V 0.05
 V 0.06
 V 0.07
